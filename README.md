@@ -1,6 +1,6 @@
 NYE-The-Wiktionary
 ==================
-
+file:///home/blackkavir/Downloads/NYE.png
 NYE the Science Wiktionary is an application that is designed to serve as a dictionary operating off Wikipedia.
 
 How IT Works
