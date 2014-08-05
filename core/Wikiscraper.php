@@ -40,11 +40,11 @@ $wikiname = strtolower($wikiname);
         $html_contents = $this->getHTML($person_name);
         //Can most defiantly be done better, no idea how functional this is. Job gets done.
         if (strpos($html_contents, 'Died</th>') !== false) {
-            echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\">Here you go.</a><br>";
+            echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\"> Bill, Bill, Bill.</a><br>";
 } else if (strpos($html_contents, 'appearance</th>') !== false) {
-echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\">Here you go.</a><br>";
+echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\">Bill, Bill, Bill.</a><br>";
 } else {
-echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\">Here you go.</a><br>";
+echo "<a href = \"http://en.wikipedia.org/wiki/$person_name\">Bill, Bill, Bill.</a><br>";
 }
 }
 
