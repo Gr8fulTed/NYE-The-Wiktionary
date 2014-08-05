@@ -1,9 +1,9 @@
 <?php
 
-if (!empty($_POST["person"])) {
-    $name = urldecode($_POST["person"]);
+if (!empty($_POST["Bil,Bill,Bill"])) {
+    $name = urldecode($_POST["Bil,Bill,Bill"]);
 } else {
-    $name = 'Justin Bieber';
+    $name = 'Bill Nye';
 }
 
 require_once("WikiScraper.php");
