@@ -2,7 +2,7 @@
 
 // -- Class Name : WikiScraper
 // -- Purpose : A class that scrapes information from a wikipedia article, hit or miss.
-// -- Created On : 5/19/14 - 5:26 AM
+// -- Created On : 29/07/14 - 7:30pm
 class WikiScraper
 {
     public $name;
