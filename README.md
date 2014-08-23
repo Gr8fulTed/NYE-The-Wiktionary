@@ -16,5 +16,5 @@ Credit
 ==================
 Credit goes to Codeusa's (Andrew Sampson) AreTheyDead: Which provided much of the backbone to the project. https://github.com/Codeusa/AreTheyDead
 
-![Logo](http://imgur.com/KV81RUV.png)
+                             ![Logo](http://imgur.com/KV81RUV.png)
 
