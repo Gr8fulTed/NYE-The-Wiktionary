@@ -12,9 +12,13 @@ FAQ
 Q:
 A: Yes, the answer is yes. The name isn't an acronym.
 
+To-do
+==================
+Add index.html
+
 Credit
 ==================
 Credit goes to Codeusa's (Andrew Sampson) AreTheyDead: Which provided much of the backbone to the project. https://github.com/Codeusa/AreTheyDead
 
-![Logo](http://imgur.com/KV81RUV.png)
+
 
