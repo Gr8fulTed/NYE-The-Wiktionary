@@ -16,9 +16,9 @@ To-do
 ==================
 Add index.html
 
-Credit
+See Also
 ==================
-Credit goes to Codeusa's (Andrew Sampson) AreTheyDead: Which provided much of the backbone to the project. https://github.com/Codeusa/AreTheyDead
+Much of the credit for the WikiScraper goes to Codeusa's (Andrew Sampson) AreTheyDead: https://github.com/Codeusa/AreTheyDead
 
 
 
